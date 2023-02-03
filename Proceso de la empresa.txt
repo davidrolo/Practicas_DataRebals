@@ -1,0 +1,14 @@
+#Algoritmo de un proceso dentro de mi empresa
+
+Proceso levantar un de tickte
+
+1 Abrir la página web para levantar ticket
+2 Ingresar a la interfáz con usuario y contraseña
+3 Seleccionar el impacto del ticket a levantar
+4 Seleccionar el área que debe resolver el ticket
+5 Indicar el tema del ticket
+6 Redactar el motivo por el cual se levanta el ticket
+7 Hay evidencia
+8 Si hay evidencia se cargan archivos de evidencia del problema a resolver
+9 Seleccionar el botón de enviar
+10 Una vez enviado la información del ticket se desplieha in numero de folio y el tiempo máximo en el que se debe dar atención al ticket.

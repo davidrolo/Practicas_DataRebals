@@ -1,0 +1,18 @@
+# Algoritmo de mi pasatiempo favorito
+
+Pasatiempo: Ver TV
+
+1 Tomar los controles de TV y TV por cable
+2 Encender la TV con el control de la TV
+3 Encender el decodificador con el control de TV por cable
+4 Si ya se que canal voy a ver, con el control de TV por cable indico el canal a ver,
+  De lo contrario recorro canal por canal con el TV por cable hasta encontrar algo de mi agrado
+5 Ajustar el volumen adecuado, esto puede ser con cualquier de los controles de TV
+6 Ver el programa del canal elegido
+7 Ya acabó, voy a ver el que sigue?
+8 Si voy a ver el programa que sigue, simplemente no hago ninguna acción con los controles de TV
+  Si no, tomo el control de TV por cable
+9 Que voy a hacer, cabiar de canal o dejar de ver la TV
+10 Si voy a cambiar de canal ejecuto los pasos a partir del 4
+   Si ya no voy a ver la TV tomo los controles y apago TV y decodificador con sus respectivos controles
+  
